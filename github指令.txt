@@ -8,5 +8,9 @@ git init
 git config --global user.name "你的git名称"
 git config --global user.email "你的git验证邮箱"
 
+
+
+gyewhdxijciomddskmcdcifhcygc
+
 报错 : please tell me who you are; 
 
